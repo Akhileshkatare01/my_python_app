@@ -85,7 +85,7 @@ post { // Actions to perform after the pipeline finishes
  
         success {
  
-            echo 'Pipeline executed successfully! Hooray! 
+            echo 'Pipeline executed successfully! Hooray!' 
  
         }
  
